@@ -29,6 +29,7 @@ This project demonstrates the design and deployment of a **hub-and-spoke virtual
 - Load balancer distributing traffic across web VMs
 
 ## 📚 Lessons Learned
+-IPv4/IPv6 Dual Stacking
 - Defense-in-depth with NSGs + Firewall
 - Hub-and-Spoke simplifies security management
 - Automation makes redeployment much faster
